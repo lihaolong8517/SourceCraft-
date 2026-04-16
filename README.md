@@ -8,7 +8,8 @@
 
 ![演示动画](assets/demo.webp)
 
-> *注：上述为精简版功能预览动画。如果您希望观看完整且具有高清控制面板的版本，**请直接在本地播放附带的视频或关注我们的官方频道**。*
+> *注：上述为精简版功能预览动画。如果您希望观看完整的高清实机演示版本：*
+> 👉 **[【点击此处观看/下载完整版 1080P 高清演示视频 (约 35MB)】](https://github.com/lihaolong8517/SourceCraft-/raw/main/assets/demo.mp4)**
 
 ## 📦 官方软件下载地址 / Official Download
 
