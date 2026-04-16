@@ -6,7 +6,7 @@
 
 ### 🎥 实机演示视频 (Demo Video)
 
-![演示视频](assets/demo.mp4)
+https://github.com/lihaolong8517/SourceCraft-/blob/main/assets/demo.mp4
 
 ## 📦 官方软件下载地址 / Official Download
 
