@@ -4,7 +4,11 @@
 
 欢迎来到 **SourceCraft** 官方介绍页！
 
-### 🎥 **[▶️ 点击这里观看软件实机演示视频 (Click to Watch Demo)](https://github.com/lihaolong8517/SourceCraft-/raw/main/assets/demo.mp4)**
+### 🎥 实机演示视频 (Demo Video)
+
+<div align="center">
+  <video src="https://raw.githubusercontent.com/lihaolong8517/SourceCraft-/main/assets/demo.mp4" width="100%" controls autoplay loop muted playsinline></video>
+</div>
 
 ## 📦 官方软件下载地址 / Official Download
 
