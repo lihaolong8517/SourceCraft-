@@ -6,9 +6,7 @@
 
 ### 🎥 实机演示视频 (Demo Video)
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/lihaolong8517/SourceCraft-/main/assets/demo.mp4" width="100%" controls autoplay loop muted playsinline></video>
-</div>
+![演示视频](assets/demo.mp4)
 
 ## 📦 官方软件下载地址 / Official Download
 
