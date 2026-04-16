@@ -4,9 +4,11 @@
 
 欢迎来到 **SourceCraft** 官方介绍页！
 
-### 🎥 实机演示视频 (Demo Video)
+### 🎥 实机演示预览 (Demo Preview)
 
-https://github.com/lihaolong8517/SourceCraft-/blob/main/assets/demo.mp4
+![演示动画](assets/demo.webp)
+
+> *注：上述为精简版功能预览动画。如果您希望观看完整且具有高清控制面板的版本，**请直接在本地播放附带的视频或关注我们的官方频道**。*
 
 ## 📦 官方软件下载地址 / Official Download
 
