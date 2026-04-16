@@ -1,8 +1,8 @@
-# 混沌下载器 (Chaos Downloader) / AI Video Lab
+# SourceCraft / AI Video Lab
 
 🔥 **一站式 AI 视频处理与超级下载神器**
 
-欢迎来到 **混沌下载器 / AI Video Lab** 官方介绍页！
+欢迎来到 **SourceCraft** 官方介绍页！
 **⚠️ 本项目为闭源商业/独立项目，不在此提供源代码，仅作官方入口与版本发布展示。**
 
 ## 📦 官方软件下载地址 / Official Download
@@ -25,4 +25,4 @@
 - 如需任何支持与授权激活，均在软件内或通过官方渠道操作。
 
 ---
-*© 2026 Chaos Downloader 保留所有权利。*
+*© 2026 SourceCraft 保留所有权利。*
