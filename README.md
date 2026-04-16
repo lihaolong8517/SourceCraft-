@@ -4,9 +4,7 @@
 
 欢迎来到 **SourceCraft** 官方介绍页！
 
-<div align="center">
-  <video src="https://github.com/lihaolong8517/SourceCraft-/raw/main/assets/demo.mp4" controls="controls" width="100%"></video>
-</div>
+https://github.com/lihaolong8517/SourceCraft-/raw/main/assets/demo.mp4
 
 ## 📦 官方软件下载地址 / Official Download
 
