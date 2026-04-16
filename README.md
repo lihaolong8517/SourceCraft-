@@ -4,6 +4,10 @@
 
 欢迎来到 **SourceCraft** 官方介绍页！
 
+<div align="center">
+  <video src="https://github.com/lihaolong8517/SourceCraft-/raw/main/assets/demo.mp4" controls="controls" width="100%"></video>
+</div>
+
 ## 📦 官方软件下载地址 / Official Download
 
 👉 **[点击这里前往官方下载页面](https://hundunxiazaiqi.cn/)** 👈
