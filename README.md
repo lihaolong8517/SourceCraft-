@@ -1,6 +1,6 @@
-# SourceCraft / AI Video Lab
+# 🚀 SourceCraft - 全网万能视频下载器 & AI 画质修复神器 (Universal Video Downloader & AI Enhancer)
 
-🔥 **一站式 AI 视频处理与超级下载神器**
+🔥 **基于顶尖内核的超强全网一站式视频下载、无损提取与 AI 超分画质增强软件**
 
 欢迎来到 **SourceCraft** 官方介绍页！
 
